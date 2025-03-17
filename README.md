@@ -1,4 +1,6 @@
-# Usage
+# Implementation of RL-STaR: Theoretical Analysis of Reinforcement Learning Frameworks for Self-Taught Reasoner
+
+[https://openreview.net/pdf?id=Oo2XthxKB9](https://openreview.net/pdf?id=Oo2XthxKB9)
 
 ## Install
 
