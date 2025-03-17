@@ -1,0 +1,5 @@
+transformers[torch]
+torch
+pandas
+numpy
+matplotlib
